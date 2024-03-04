@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab05</string>
+    <string name="OpenDialog_activity1">Open Dialog</string>
+    <string name="Exitapp_activity1">Exit App</string>
+    <string name="application">application</string>
+    <string name="Ok_activity2">OK</string>
+    <string name="Cancel_activity2">Cancel</string>
+
+
+</resources>
